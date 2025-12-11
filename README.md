@@ -1,4 +1,5 @@
 🛍️ Olist E-Commerce Product Analytics — Portfolio Project
+https://public.tableau.com/views/Olistproject_17653382982250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 End-to-end analytics project using SQL (BigQuery), Python (Kaggle), and Tableau Public to analyze Brazil’s largest marketplace dataset.
 The goal: understand customer behavior, delivery performance, product categories, and revenue drivers.
